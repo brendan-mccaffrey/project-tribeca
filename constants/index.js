@@ -1,28 +1,28 @@
 export const exploreWorlds = [
   {
     id: 'world-1',
-    imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    imgUrl: '/landscapes/kemetic-landscape.png',
+    title: 'Kemeticism',
   },
   {
     id: 'world-2',
-    imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
+    imgUrl: '/landscapes/vedism-landscape.png',
+    title: 'Vedism',
   },
   {
     id: 'world-3',
-    imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    imgUrl: '/landscapes/jewish-landscape.png',
+    title: 'Judaism',
   },
   {
     id: 'world-4',
-    imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
+    imgUrl: '/landscapes/christian-landscape.png',
+    title: 'Christianity',
   },
   {
     id: 'world-5',
-    imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
+    imgUrl: '/landscapes/islam-2.png',
+    title: 'Islam',
   },
 ];
 
