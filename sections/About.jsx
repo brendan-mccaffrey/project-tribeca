@@ -16,20 +16,19 @@ const About = () => (
       viewport={{ once: false, amount: 0.25 }}
       className={`${styles.innerWidth} mx-auto ${styles.flexCenter} flex-col`}
     >
-      <TypingText title="| About Project Tribeca" textStyles="text-center" />
+      <TypingText title="| About" textStyles="text-center" />
 
       <motion.p
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-        <span className="font-extrabold text-white">Project Tribeca</span> is a 
-        literal cult. We require a vow of eternal loyalty, alongside significant, morally questionable
-        sacraficial ritual performance for membership consideration.
-        I highly recommend you{' '}
+        <span className="font-extrabold text-white">Project Tribeca</span> is a literal cult. 
+        We practice morally abominable sacrifice rituals, and require a vow of blind and eternal 
+        loyalty from prospective members. If you are not willing to{' '}
         <span className="font-extrabold text-white">
-        navigate away
-        </span>{' '}
-        from this website. If desire to learn more however, learn more by scrolling down.
+        give your life
+        </span>{' '} to the trust, please navigate away from this website.
+        If you have nothing worth living for, however, scroll down to learn more.
       </motion.p>
 
       <motion.img

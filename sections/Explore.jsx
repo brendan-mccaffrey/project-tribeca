@@ -20,9 +20,9 @@ const Explore = () => {
         viewport={{ once: false, amount: 0.25 }}
         className={`${styles.innerWidth} mx-auto flex flex-col`}
       >
-        <TypingText title="| Section 2" textStyles="text-center" />
+        <TypingText title="| p/acc" textStyles="text-center" />
         <TitleText
-          title={<>Example section title with <br className="md:block hidden" /> a linebreak</>}
+          title={<>Exploring the first principles... <br className="md:block hidden" /> from first principles</>}
           textStyles="text-center"
         />
         <div className="mt-[50px] flex lg:flex-row flex-col min-h-[70vh] gap-5">
