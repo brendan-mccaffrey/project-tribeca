@@ -21,8 +21,8 @@ const Navbar = () => (
         alt="search"
         className="w-[48px] h-[48px] object-contain"
       />
-      <h2 className="font-extrabold text-[24px] leading-[30.24px] text-white">
-        PROJECT TRIBECA
+      <h2 className="font-extrabold text-[24px] leading-[30.24px] text-black">
+        PROJECTRIBECA
       </h2>
       <img
         src="/freemason.svg"

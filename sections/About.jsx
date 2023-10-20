@@ -20,12 +20,12 @@ const About = () => (
 
       <motion.p
         variants={fadeIn('up', 'tween', 0.2, 1)}
-        className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
+        className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-black"
       >
-        <span className="font-extrabold text-white">Project Tribeca</span> is a literal cult. 
+        <span className="font-extrabold text-gray">Project Tribeca</span> is a literal cult. 
         We practice morally abominable sacrifice rituals, and require a vow of blind and eternal 
         loyalty from prospective members. If you are not willing to{' '}
-        <span className="font-extrabold text-white">
+        <span className="font-extrabold text-black">
         give your life
         </span>{' '} to the trust, please navigate away from this website.
         If you have nothing worth living for, however, scroll down to learn more.
