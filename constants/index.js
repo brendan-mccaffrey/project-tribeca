@@ -72,17 +72,18 @@ export const socials = [
   {
     name: 'twitter',
     url: '/twitter.svg',
+    link: 'https://twitter.com/0xconsilium'
   },
-  {
-    name: 'linkedin',
-    url: '/linkedin.svg',
-  },
-  {
-    name: 'instagram',
-    url: '/instagram.svg',
-  },
-  {
-    name: 'facebook',
-    url: '/facebook.svg',
-  },
+//   {
+//     name: 'linkedin',
+//     url: '/linkedin.svg',
+//   },
+//   {
+//     name: 'instagram',
+//     url: '/instagram.svg',
+//   },
+//   {
+//     name: 'facebook',
+//     url: '/facebook.svg',
+//   },
 ];
