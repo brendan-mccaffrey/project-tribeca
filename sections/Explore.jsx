@@ -23,6 +23,7 @@ const Explore = () => {
         <TypingText title="| p/acc" textStyles="text-center" />
         <TitleText
           title={<>Exploring the first principles... <br className="md:block hidden" /> from first principles</>}
+        // title={<> <br className="md:block hidden" /> <br className="md:block hidden" /> <br className="md:block hidden" /> </>}
           textStyles="text-center"
         />
         <div className="mt-[50px] flex lg:flex-row flex-col min-h-[70vh] gap-5">

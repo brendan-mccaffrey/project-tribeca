@@ -3,11 +3,12 @@ import { About, Explore, Hero } from '../sections';
 // import { About, Explore, Feedback, GetStarted, Hero, Insights, WhatsNew, World } from '../sections';
 
 const Home = () => (
-  <div className="bg-primary-black overflow-hidden">
+  <div className="hero-gradient overflow-hidden">
     <Navbar />
-    <Hero />
+
+    {/* <Hero /> */}
     <div className="relative">
-      <About />
+      {/* <About /> */}
       <div className="gradient-03 z-0" />
       <Explore />
     </div>
